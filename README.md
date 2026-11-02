@@ -14,3 +14,6 @@ Libraries and tools: Java’s standard library only. Everything that I will be u
 Data storage: MVP will keep game and RSVP information in memory while the program is running. In V2.0 I will be saving games to a file. 
 External data sources: None.
 Interface: MVP is the terminal. V2.0 will be desktop app using Swing. 
+
+
+docs is in src
